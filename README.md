@@ -1,9 +1,8 @@
 # Belief Propagation for Stereo Matching (Accelerated2)
 
 > **Repository Moved**  
-> This repository has been moved to a new location and is no longer maintained here.  
-> Please visit the new repository: [Loopy Belief Propagation for Stereo Matching](https://github.com/aposb/loopy-belief-propagation-for-stereo-matching)  
-> This repository is archived and kept for reference only.
+> This project has moved to [Loopy Belief Propagation for Stereo Matching](https://github.com/aposb/loopy-belief-propagation-for-stereo-matching).  
+> The new repository contains the latest code, documentation, and updates.
 
 A C++ implementation of Loopy Belief Propagation for stereo matching. It uses the "min-sum" variation of the algorithm and the "Accelerated2" (Right/Down-Left/Up sweep) message update schedule.
 
